@@ -25,10 +25,16 @@ Include your responses to the bold questions on your own fork of [this lab repor
 **a. What voltage level do you need to power your display?**
 
 **b. What voltage level do you need to power the display backlight?**
+
+
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
+I didn't connect the potentiometer pins correctly, I solved it by asking Oluseyi for help and making sure I understand how it works.
+
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
+ 
+This one: lcd.print("hello, world!");
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
@@ -41,8 +47,15 @@ Include your responses to the bold questions on your own fork of [this lab repor
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
+
+Multiplying the values of the noteDurations by 2
+int noteDurations[] = {
+  4, 8, 8, 4, 4, 4, 4, 4
+};
  
 **b. What song is playing?**
+
+Star Wars
 
 
 ## Part E. Make your own timer
