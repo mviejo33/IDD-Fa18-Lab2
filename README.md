@@ -24,9 +24,11 @@ Include your responses to the bold questions on your own fork of [this lab repor
  
 **a. What voltage level do you need to power your display?**
 
+5V
+
 **b. What voltage level do you need to power the display backlight?**
 
-
+3.3V
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
@@ -43,6 +45,7 @@ This one: lcd.print("hello, world!");
 
 **Upload a video of your working rotary encoder here.**
 
+https://www.youtube.com/watch?v=CKnvD9ydb8g
 
 ## Part D. Make your Arduino sing!
 
@@ -57,9 +60,13 @@ int noteDurations[] = {
 
 Star Wars
 
-
 ## Part E. Make your own timer
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
+I did a game in which the player has to listen and see carefully, when they listen the beep sound, they have to look at the current number in the LCD screen and write it down, at the end the screen shows the correct numbers and the player can check if he/she got them right. It is started by spinning the encoder.
+
+https://www.youtube.com/watch?v=0gggR6JxPaY
+
 **b. Post a link to the completed lab report your class hub GitHub repo.**
+
