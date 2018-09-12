@@ -13,12 +13,12 @@ D) [Make your Arduino sing!](#part-d-make-your-arduino-sing)
 
 E) [Make your own timer](#part-e-make-your-own-timer) 
  
-## In The Report
-Include your responses to the bold questions on your own fork of [this lab report template](https://github.com/FAR-Lab/IDD-Fa18-Lab2). Include snippets of code that explain what you did. Deliverables are due next Tuesday. Post your lab reports as README.md pages on your GitHub, and post a link to that on your main class hub page.
 
 ## Part A. Solder your LCD panel
 
 **Take a picture of your soldered panel and add it here!**
+
+![Image of breadboard](https://github.com/mviejo33/IDD-Fa18-Lab2/blob/master/IMG_20180911_020013.jpg)
 
 ## Part B. Writing to the LCD
  
@@ -40,6 +40,7 @@ This one: lcd.print("hello, world!");
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
+[Link to multimeter](//github.com/mviejo33/IDD-Fa18-Lab2/blob/master/multimeter.ino)
 
 ## Part C. Using a time-based digital sensor
 
@@ -70,3 +71,4 @@ https://www.youtube.com/watch?v=0gggR6JxPaY
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**
 
+![Link to lab hub](https://github.com/mviejo33/Interactive-Lab-Hub)
